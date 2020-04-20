@@ -16,10 +16,13 @@
     font-family: arial;
     font-size: 1.2em;
 }
+
 @media (max-width:768px)
 {
     #menu{
         margin-left: 50px;
         margin-right: 50px;
+        
     }
+    
 }
