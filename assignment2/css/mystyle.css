@@ -19,7 +19,7 @@
 
 @media (max-width:768px)
 {
-    #menu{
+    #menu#heading p{
         margin-left: 50px;
         margin-right: 50px;
         
